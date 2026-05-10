@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lovito99.github.io/readme-8r8rsl/sitemap.xml
